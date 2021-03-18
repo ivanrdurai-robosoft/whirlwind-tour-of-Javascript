@@ -1,0 +1,23 @@
+{
+  "name": "whirlwind-tour-of-javascript",
+  "version": "1.0.0",
+  "description": "Understanding JavaScript",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanrdurai-robosoft/whirlwind-tour-of-Javascript.git"
+  },
+  "keywords": [
+    "Understanding",
+    "Javascript\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[C\u001b[C"
+  ],
+  "author": "Ivan R Durai <ivan.durai@robosoftin.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ivanrdurai-robosoft/whirlwind-tour-of-Javascript/issues"
+  },
+  "homepage": "https://github.com/ivanrdurai-robosoft/whirlwind-tour-of-Javascript#readme"
+}
