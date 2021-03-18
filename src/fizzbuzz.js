@@ -1,14 +1,16 @@
 function fizzbuzz(num) {
+    var output = "";
     for (let i = 1; i <= num; i++) {
         if (i % 3 == 0 && i % 5 == 0) {
-        console.log("FizzBuzz");
+            output = "FizzBuzz";
         }else if(i % 3 == 0){
-        console.log("Fizz");
+            output = "Fizz";
         }else if(i % 5 == 0){
-        console.log("Buzz");
+            output = "Buzz";
         }else{
-        console.log(i);
+            output = i;
         }
+        console.log(output);
     }
 }
   
